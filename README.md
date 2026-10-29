@@ -33,7 +33,7 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 ## Linguagens e tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,postgres,js,html,css,react,nodejs,git,github" alt="Minhas Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,git,github" alt="Minhas Tecnologias"/>
 </p>
 
 ### Stack de Conhecimentos:
