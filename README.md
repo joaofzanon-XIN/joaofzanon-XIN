@@ -52,16 +52,6 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 
 ---
 
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaofzanon-XIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofzanon-XIN&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
 <p align="center">
   <i>"Cada projeto uma oportunidade de criar e transformar ideias em realidade!"</i>
 </p>
