@@ -47,7 +47,7 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 ## Game Zone:
 
 <p align="center">
-  <img src="assets/dark-souls-bonfire.gif" alt="Bonfire Lit" width="100%" />
+  <img src="dark-souls-bonfire.gif" alt="Bonfire Lit" width="100%" />
 </p>
 
 ---
