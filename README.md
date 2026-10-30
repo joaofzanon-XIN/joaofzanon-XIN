@@ -14,9 +14,6 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
   <a href="https://www.linkedin.com/in/jo%C3%A3o-fraz%C3%A3o-zanon/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="" target="_blank">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </p>
 
 ---
